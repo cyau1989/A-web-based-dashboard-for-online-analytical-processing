@@ -5,6 +5,6 @@ This is the final project of Data warehousing course. We created a star schema a
 
 Project members:
 
-Lu HE
-YAU Chung Yin 
+Lu HE,
+YAU Chung Yin ,
 YU Zhen 
