@@ -12,13 +12,13 @@ partsupp.sql,
 region.sql,	
 supplier.sql
 
-Query files:
-Q10sl.php,	
-Q15sl.php,	
-Q19sl.php,	
+Query files (extract):
 Q3sl.php,	
 Q5sl.php,	
-Q7sl.php
+Q7sl.php,
+Q10sl.php,	
+Q15sl.php,	
+Q19sl.php
 
 Project Report:
 BT5110 Final Project - Group 12.docx
