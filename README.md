@@ -27,7 +27,6 @@ BT5110 Final Project - Group 12.docx
 BT5110 Project Presentation.pptx
 
 # Project Members:
-Project members:
 Lu HE,
 YAU Chung Yin ,
 YU Zhen 
